@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain_pinecone
+langchain-text-splitters
+langchain-huggingface
+langchain-ollama
+sentence-transformers
+pinecone
+pypdf
+flask
+-e .
