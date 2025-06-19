@@ -15,9 +15,6 @@ The Document Verification System is designed to assist in verifying the authenti
 - **Accuracy**: Enhance the system's accuracy in detecting fraud through improved OCR and document classification.
 - **Integration**: Seamlessly integrate with existing systems and databases used by organizations for document verification.
 
-## Contributors
-- **Rahul Dev Banjara**
-
 ## Project Architecture
 1. **Frontend**: User interface for document upload and verification results.
 2. **Backend**: Server-side processing, including OCR, document classification, and interaction with the government database.
