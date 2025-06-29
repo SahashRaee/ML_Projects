@@ -313,14 +313,6 @@ This will run all tests and save the results to a log file. For more details on 
 - Git
 - Vercel (frontend hosting)
 
-## Team & Contributors
-
-AarthikNiti is developed by a team of skilled developers:
-
-- **Rahul Dev Banjara** - Machine Learning and Backend Engineer
-- **Shreeya Pandey** - Frontend Engineer
-- **Diwash Adhikari** - Backend Engineer
-- **Prajwal Dahal** - Frontend Engineer
 
 ## Contributing
 
@@ -340,12 +332,3 @@ AarthikNiti is developed by a team of skilled developers:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For issues or feature requests, open an issue on [GitHub](https://github.com/devrahulbanjara/AarthikNiti-Expense-Tracker/issues).
-
----
-
-<div align="center">
-  <p>Built with ❤️ by the AarthikNiti Team</p>
-</div>
